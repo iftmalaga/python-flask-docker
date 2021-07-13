@@ -42,10 +42,3 @@ And check exposed service:
 ```
 curl http://localhost:5000
 ```
-
-## :octocat: Can you support me?
-
-I will continue to do things and expose notes, but existing many ways to support what I do:
-* Pull requests are welcome a :dizzy:
-* Don't forget to give this Repository a :star2:
-* <a href="https://www.buymeacoffee.com/pedringcoding" title="Donate to this content using BuyMeACoffee">Buy me a :coffee:</a>
